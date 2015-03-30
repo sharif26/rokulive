@@ -1,0 +1,12 @@
+title=List Screen
+subtitle=Simple List Screen Sample
+major_version=1
+minor_version=0
+build_version=0
+mm_icon_focus_hd=pkg:/images/channel_BD_logo.png
+mm_icon_side_hd=pkg:/images/channel_BD_logo.png
+mm_icon_focus_sd=pkg:/images/channel_BD_logo.png
+mm_icon_side_sd=pkg:/images/channel_BD_logo.png
+splash_screen_hd=pkg:/images/channel_BD_logo.png
+splash_screen_sd=pkg:/images/channel_BD_logo.png
+splash_color=#000
